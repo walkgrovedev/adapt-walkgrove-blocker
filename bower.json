@@ -1,0 +1,19 @@
+{
+    "name": "adapt-walkgrove-blocker",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/walkgrovedev/adapt-walkgrove-blocker.git"
+    },
+    "framework": ">=5",
+    "version": "1.0.0",
+    "homepage": "https://github.com/walkgrovedev/adapt-walkgrove-blocker.git",
+    "component": "blocker",
+    "displayName": "Blocker",
+    "description": "A simple footer component",
+    "main": "/js/adapt-walkgrove-blocker.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-component"
+    ],
+    "license": "GPL-3.0"
+}

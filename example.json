@@ -1,0 +1,23 @@
+    {
+        "_id": "c-05",
+        "_parentId": "b-05",
+        "_type": "component",
+        "_component": "blocker",
+        "_classes": "",
+        "_layout": "full",
+        "title": "",
+        "displayTitle": "",
+        "body": "<p>Complete the content above to continue</p>",
+        "_blockers": [
+           {
+              "_screen_id": "c-01_01_010"
+           },
+           {
+              "_screen_id": "c-01_01_020"
+           }
+        ],
+        "_pageLevelProgress": {
+           "_isEnabled": false,
+           "_isCompletionIndicatorEnabled": false
+        }
+    }
