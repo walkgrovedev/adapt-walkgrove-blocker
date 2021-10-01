@@ -78,6 +78,9 @@ define([
     goNext: function() {
 
       this.setCompletionStatus();
+      _.delay(function() {
+        this.$('.component__title').focusNext();
+      }, 100);
 
     },
 
